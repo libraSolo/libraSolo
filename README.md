@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🌱 正在努力学习python
 - 👯 期待找到志同道合的朋友
 - 🤔 希望开阔自己的知识面
-- 💬 wechat：Librasolo0925
+- 💬 博客: mucunliangtai.com
 
 
